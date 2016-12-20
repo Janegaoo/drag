@@ -13,6 +13,5 @@
 			obj.style.left = ev.pageX - disX + 'px';
 			obj.style.top = ev.pageY - dixY + 'px';
 		}
-		
 	}
  }
